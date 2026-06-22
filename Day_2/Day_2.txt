@@ -1,0 +1,26 @@
+In the day of learning Statistics Abput the most important lesson the "Mathematics,Statistics and data Scientist"
+
+They have dfferent works but Only one goal "Learn More about data"
+
+So the data Scientist is the Compbination of all these 
+Mathematician + Engineer + Statistician >> data Scientist
+
+Statistics : IT is the scinece of collecting , organising , analysing and interpreting the data to 
+and presenting to the Decision making under uncertanity.
+
+There are 3 types of Statistics 
+1.Descriptive Statistics : It will show no claim beyond the data 
+ex. mean,median,mode
+
+2.Inferential Statistics : It can showor make claims beyond the data 
+ex.Probability
+
+Types of data 
+
+1.Qualititive (Categeorical Data)
+-we cannot use as numeriacal 
+types -1.Nominal - City , gender 2.ordinal - Ordered , Grade
+
+2.Quantitative(numeriacal data )
+types 1.Decreate -Countable 2.Continues - Numerical value within the range (Temperature)
+
