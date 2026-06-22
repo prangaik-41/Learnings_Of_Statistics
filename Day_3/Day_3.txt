@@ -1,0 +1,18 @@
+Central tendancy - A single value that describe about the centre or typical value ofadataset
+which is summerising all the Distribution into one  member
+
+it inlcudes 
+1.mean
+2.median
+3.mode
+
+Arithmatic mean : Itis the sum ofall observation  divided by the Total count 
+it is balanced point of distribution 
+
+itincludes :
+1. Ungropuped
+2.grouped 
+3.Weighted
+4.Property
+
+Main thing for ML use - feature Normalisation
