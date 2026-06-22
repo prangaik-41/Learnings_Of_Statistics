@@ -1,0 +1,19 @@
+Today i learned about the Basics of how the Maths revolves
+in the feild of Machine Learning and data  Science. 
+
+What is the demand of Data scientist and all 
+There  are some step or roadmap for the data scinetist 
+
+Collect the Sample >> Clean it >> describe It >>  Inferentit/make model >> decide and deploy it 
+
+These are the primery steps for being a Data Scientist Asi Learned about it.
+
+The demand of data scientist is in many fields like >>>
+1.Finance and banking 
+2.Health care sector
+3.manufacturing and Energy 
+4.IT and Technology 
+5.E-commmarce and retail 
+
+So multiple field have many Ideas or demands for Data Scientist.
+
