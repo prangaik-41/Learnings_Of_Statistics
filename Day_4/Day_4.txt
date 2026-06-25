@@ -1,0 +1,20 @@
+In the Day we learned about Median concepts and About Keyconcept of machine larnening
+
+median :  It is the middle value of ordered dataset or itis resistant to the outliers 
+
+Ml concepts
+- Normalisation : z= (datapoint-mean)/Standard Deviation
+- missing value : Fill NaN with Mean/Median
+- Class Imbalance : Mode = Majority Label 
+- K Means : cetnrtoid = cluster mean
+
+Karls Pearsons Empirical formula :
+
+Mode nearlly equal to 3*Median - 2* Mean 
+
+Skewness = (MEan - Mode) / Std.dev  
+
+Symmetric : Mean = Mode = Median
+
+Right Skew = Mean > MEdian > Mode
+left Skew = Mean < Median < Mode
