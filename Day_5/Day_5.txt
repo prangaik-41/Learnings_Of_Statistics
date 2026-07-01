@@ -1,0 +1,16 @@
+I learned about the Cluster 
+- It is completely based on the topic of Dispersion Spread And Variability 
+how far thedata sit from the mean value or the centre point 
+
+Range = Maximum -minimum
+
+Outliers and percentiles - Slicing the data 
+ - store the data and then Cut it into pieces 
+
+ Q1= 25%lie - Quater of data Lies Belowit 
+ Q2 = 50%lie - The median Value 
+ Q3 = 75%lie -3  quartiles of data lies below it
+
+ InterQuartile Range -
+
+ IGR =Q3-Q1
